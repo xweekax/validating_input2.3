@@ -1,0 +1,13 @@
+C:\devbuild4\lab2.3 validating input\bin\Debug\netcoreapp3.1\lab2.3 validating input.exe
+C:\devbuild4\lab2.3 validating input\bin\Debug\netcoreapp3.1\lab2.3 validating input.deps.json
+C:\devbuild4\lab2.3 validating input\bin\Debug\netcoreapp3.1\lab2.3 validating input.runtimeconfig.json
+C:\devbuild4\lab2.3 validating input\bin\Debug\netcoreapp3.1\lab2.3 validating input.runtimeconfig.dev.json
+C:\devbuild4\lab2.3 validating input\bin\Debug\netcoreapp3.1\lab2.3 validating input.dll
+C:\devbuild4\lab2.3 validating input\bin\Debug\netcoreapp3.1\lab2.3 validating input.pdb
+C:\devbuild4\lab2.3 validating input\obj\Debug\netcoreapp3.1\lab2.3 validating input.csprojAssemblyReference.cache
+C:\devbuild4\lab2.3 validating input\obj\Debug\netcoreapp3.1\lab2.3 validating input.AssemblyInfoInputs.cache
+C:\devbuild4\lab2.3 validating input\obj\Debug\netcoreapp3.1\lab2.3 validating input.AssemblyInfo.cs
+C:\devbuild4\lab2.3 validating input\obj\Debug\netcoreapp3.1\lab2.3 validating input.csproj.CoreCompileInputs.cache
+C:\devbuild4\lab2.3 validating input\obj\Debug\netcoreapp3.1\lab2.3 validating input.dll
+C:\devbuild4\lab2.3 validating input\obj\Debug\netcoreapp3.1\lab2.3 validating input.pdb
+C:\devbuild4\lab2.3 validating input\obj\Debug\netcoreapp3.1\lab2.3 validating input.genruntimeconfig.cache
